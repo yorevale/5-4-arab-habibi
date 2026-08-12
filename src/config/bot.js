@@ -9,7 +9,7 @@ export const botConfig = {
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
-  presence: {
+  presence: {invisible
     // Current online state shown on Discord.
     status: "online",
 
@@ -97,9 +97,9 @@ export const botConfig = {
       secondary: "#2F3136",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
-      warning: "#FEE75C",
+      success: "#ffffff",
+      error: "#B23232",
+      warning: "#A85011",
       info: "#3498DB",
 
       // Neutral utility colors.
